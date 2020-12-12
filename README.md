@@ -6,11 +6,11 @@ The Go community has been represented at FOSDEM every year since 2014, while 202
 
 This year again the Go devroom will be online on Saturday February 6th 2021 and we are now looking for speakers. The format will be 22 minutes talk with 5 minutes for Q&A at the end.
 This year will be a little different than previous editions. All talks will be presented online either pre-recorded or live (which one you prefer to give is up to you! We do however require a backup video to be uploaded).
-During the talks we will have an online Q&A and chatroom moderated by our friendly volunteers helping to provide a fun online experience. 
+During the talks we will have an online Q&A and chatroom moderated by our friendly volunteers helping to provide a fun online experience.
 
 This is a great opportunity for new speakers, and we will have people helping you craft your talk and slides if so you wish. So if you, or someone you know, are working on something cool that might be good on a virtual stage, submit a proposal!
 
-Do you want to be one of our speakers? Please submit your proposal using [pentabarf](https://penta.fosdem.org/submission/FOSDEM21). The deadline for submission is December 27th 2021 (23:59 UTC). If you are selected we would like to have the (backup) video uploaded by January 31st 2021.
+Do you want to be one of our speakers? Please submit your proposal using [pentabarf](https://penta.fosdem.org/submission/FOSDEM21). The deadline for submission is December 27th 2020 (23:59 UTC). If you are selected we would like to have the (backup) video uploaded by January 31st 2021.
 Should you need any help using pentabarf check out our [“Guide to Pentabarf”](https://eyskens.me/beginners-guide-to-pentabarf/).
 If you want us to check whether your proposal came through correctly, you can always contact us at [go-devroom-manager@fosdem.org](mailto:go-devroom-manager@fosdem.org).
 
