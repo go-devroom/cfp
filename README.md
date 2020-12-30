@@ -10,7 +10,7 @@ During the talks we will have an online Q&A and chatroom moderated by our friend
 
 This is a great opportunity for new speakers, and we will have people helping you craft your talk and slides if so you wish. So if you, or someone you know, are working on something cool that might be good on a virtual stage, submit a proposal!
 
-Do you want to be one of our speakers? Please submit your proposal using [pentabarf](https://penta.fosdem.org/submission/FOSDEM21). The deadline for submission is December 27th 2020 (23:59 UTC). If you are selected we would like to have the (backup) video uploaded by January 31st 2021.
+Do you want to be one of our speakers? Please submit your proposal using [pentabarf](https://penta.fosdem.org/submission/FOSDEM21). The deadline for submission is January 2nd 2020 (23:59 UTC). If you are selected we would like to have the (backup) video uploaded by January 31st 2021.
 Should you need any help using pentabarf check out our [“Guide to Pentabarf”](https://eyskens.me/beginners-guide-to-pentabarf/).
 If you want us to check whether your proposal came through correctly, you can always contact us at [go-devroom-manager@fosdem.org](mailto:go-devroom-manager@fosdem.org).
 
