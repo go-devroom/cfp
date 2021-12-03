@@ -23,3 +23,4 @@ The room will follow Go’s [Code of Conduct](https://golang.org/conduct).
 
 Cheers,
 Maartje Eyskens
+Kris Nóva
