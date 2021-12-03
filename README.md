@@ -1,4 +1,4 @@
-# Go Devroom CfP — FOSDEM 2021
+# Go Devroom CfP — FOSDEM 2022
 
 Hi gophers,
 
