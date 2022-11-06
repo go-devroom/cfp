@@ -19,6 +19,5 @@ Any topics related to Go are welcome, with a preference for open source projects
 
 The room will follow Go’s [Code of Conduct](https://golang.org/conduct).
 
-Cheers,
+Cheers,  
 Maartje Eyskens
-Kris Nóva
