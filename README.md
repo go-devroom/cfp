@@ -4,7 +4,7 @@ Hi gophers,
 
 The Go community has been represented at FOSDEM every year since 2014. The year 2023 won't be any different
 
-This year again the Go devroom will be **in-person again** in Brussels on Saturday February 4th 2022 and we are now looking for speakers. The format will be 25 minutes talk with 5 minutes for Q&A at the end.
+This year again the Go devroom will be **in-person again** in Brussels on Saturday February 4th 2023 and we are now looking for speakers. The format will be 25 minutes talk with 5 minutes for Q&A at the end.
 
 This is a great opportunity for new speakers, and we will have people helping you craft your talk and slides if so you wish. So if you, or someone you know, are working on something cool that might be good on stage, submit a proposal!
 
