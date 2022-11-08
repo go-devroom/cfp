@@ -8,7 +8,7 @@ This year again the Go devroom will be **in-person again** in Brussels on Saturd
 
 This is a great opportunity for new speakers, and we will have people helping you craft your talk and slides if so you wish. So if you, or someone you know, are working on something cool that might be good on stage, submit a proposal!
 
-Do you want to be one of our speakers? Please submit your proposal using [pentabarf](https://penta.fosdem.org/event/new). The deadline for submission is Decemnber 10th 2022 (23:59 UTC).
+Do you want to be one of our speakers? Please submit your proposal using [pentabarf](https://penta.fosdem.org/event/new). The deadline for submission is December 10th 2022 (23:59 UTC).
 Should you need any help using pentabarf check out our [“Guide to Pentabarf”](https://eyskens.me/beginners-guide-to-pentabarf/).
 If you want us to check whether your proposal came through correctly, you can always contact us at [go-devroom-manager@fosdem.org](mailto:go-devroom-manager@fosdem.org).
 
