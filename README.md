@@ -12,7 +12,7 @@ Do you want to be one of our speakers? Please submit your proposal using [pentab
 Should you need any help using pentabarf check out our [“Guide to Pentabarf”](https://eyskens.me/beginners-guide-to-pentabarf/).
 If you want us to check whether your proposal came through correctly, you can always contact us at [go-devroom-manager@fosdem.org](mailto:go-devroom-manager@fosdem.org).
 
-Do you want to help organize the devroom? We need people to help on the day itself (doors, microphone handover, camera, allaround). Bur we are also especially looking for many people to help with reviewing the proposals and help with mentoring.
+Do you want to help organize the devroom? We need people to help on the day itself (doors, microphone handover, camera, allaround). But we are also especially looking for many people to help with reviewing the proposals and help with mentoring.
 Please send us an email to [go-devroom-manager@fosdem.org](mailto:go-devroom-manager@fosdem.org) if you’d like to help out with this.
 
 Any topics related to Go are welcome, with a preference for open source projects rather than product pitches. We value talks about how a given project uses Go rather than how a project written in Go is used.
