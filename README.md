@@ -8,7 +8,7 @@ This year again the Go devroom will be in-person in Brussels on Saturday Februar
 
 This is a great opportunity for new speakers, and we will have people helping you craft your talk and slides if so you wish. So if you, or someone you know, are working on something cool that might be good on stage, submit a proposal!
 
-Do you want to be one of our speakers? Please submit your proposal using [the new FOSDEM Pretalx site](https://pretalx.fosdem.org/fosdem-2024/cfp). The deadline for submission is December 1st 2022 (00:00 Brussels Time).
+Do you want to be one of our speakers? Please submit your proposal using [the new FOSDEM Pretalx site](https://pretalx.fosdem.org/fosdem-2024/cfp). The deadline for submission is December 1st 2023 (00:00 Brussels Time).
 If you want us to check whether your proposal came through correctly, you can always contact us at [go-devroom-manager@fosdem.org](mailto:go-devroom-manager@fosdem.org).
 
 Do you want to help organize the devroom? We need people to help on the day itself (doors, microphone handover, camera, allaround). But we are also especially looking for many people to help with reviewing the proposals and help with mentoring.
