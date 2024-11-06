@@ -16,7 +16,7 @@ Please send us an email to [go-devroom-manager@fosdem.org](mailto:go-devroom-man
 
 Any topics related to Go are welcome, with a preference for open source projects rather than product pitches. We value talks about how a given project uses Go rather than how a project written in Go is used.
 
-The room will follow Go’s [Code of Conduct](https://golang.org/conduct).
+The room will follow Go’s [Code of Conduct](https://golang.org/conduct) and as part of FOSDEM, the FOSDEM Code of Conduct also applies.
 
 Cheers,  
 Maartje Eyskens
